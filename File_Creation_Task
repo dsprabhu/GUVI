@@ -1,0 +1,14 @@
+####File create task1 ####
+#mkdir my_folder
+#cd my_folder
+my_folder#cat >> my_file.txt<<EOF
+Hello Guvi
+>EOF
+my_folder#cat >> another_file.txt<<EOF
+another file name
+EOF
+my_folder#cat another_file.txt >> my_file.txt
+#pwc
+#ls -l
+my_folder#cat my_file.txt
+my_folder#cat my_file.txt

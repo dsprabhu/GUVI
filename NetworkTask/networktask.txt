@@ -1,3 +1,4 @@
+###TASK1
 #Get me the IP address of a particular domain (guvi.in)
 dig guvi.com 
 nslookup guvi.com
@@ -7,3 +8,5 @@ free -h #memory utilization
 #Test the connectivity between 2 nodes
 traceroute guvi.com
 ping guvi.com
+
+#TASK2

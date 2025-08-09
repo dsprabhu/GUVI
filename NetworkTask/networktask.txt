@@ -10,3 +10,5 @@ traceroute guvi.com
 ping guvi.com
 
 #TASK2
+#I have deployed an application in guvi.com:9000, and logs show my app is running, but I’m unable to view the page. Check whether my port is open or not 
+netstat -ntplu|grep :9000

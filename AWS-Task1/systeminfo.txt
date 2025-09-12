@@ -1,0 +1,51 @@
+PS C:\Users\Administrator> systeminfo
+
+Host Name:                     EC2AMAZ-SSB6MHC
+OS Name:                       Microsoft Windows Server 2025 Datacenter
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Server
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              EC2
+Registered Organization:       Amazon.com
+Product ID:                    00491-50000-00001-AA510
+Original Install Date:         9/12/2025, 4:35:31 AM
+System Boot Time:              9/12/2025, 4:42:52 AM
+System Manufacturer:           Amazon EC2
+System Model:                  c7i-flex.large
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 143 Stepping 8 GenuineIntel ~2400 Mhz
+BIOS Version:                  Amazon EC2 1.0, 10/16/2017
+Windows Directory:             C:\Windows
+System Directory:              C:\Windows\system32
+Boot Device:                   \Device\HarddiskVolume2
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC) Coordinated Universal Time
+Total Physical Memory:         3,900 MB
+Available Physical Memory:     1,957 MB
+Virtual Memory: Max Size:      5,308 MB
+Virtual Memory: Available:     3,553 MB
+Virtual Memory: In Use:        1,755 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\EC2AMAZ-SSB6MHC
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5056579
+                               [02]: KB5063878
+                               [03]: KB5063666
+                               [04]: KB5065381
+Network Card(s):               1 NIC(s) Installed.
+                               [01]: Amazon Elastic Network Adapter
+                                     Connection Name: Ethernet 2
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     172.31.80.1
+                                     IP address(es)
+                                     [01]: 172.31.82.183
+                                     [02]: fe80::1fc3:9d37:362:4371
+Virtualization-based security: Status: Not enabled
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
